@@ -20,7 +20,7 @@ jupyter lab
 - Open the Jupyter notebook up in your directory.
 
 ## Credits
-This was from watching one of Sven's (From Coding is Fun) wonderful videos: https://www.youtube.com/watch?v=svcv8uub0D0
+This was from watching one of Sven's (From Coding is Fun) wonderful videos: https://www.youtube.com/watch?v=svcv8uub0D0 <br>
 Also credits to the team at PySimpleGUI - https://github.com/PySimpleGUI/PySimpleGUI
 
 
