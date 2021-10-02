@@ -1,4 +1,4 @@
-# Pandas_Introduction_Tutorial
+# PySimpleGUI Demo
 An introduction to the world of PySimpleGUI! 
 Very small data entry form that outputs to an existing Excel sheet, or creates one.
 
